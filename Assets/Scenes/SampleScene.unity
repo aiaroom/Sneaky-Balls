@@ -186,6 +186,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &963194225
@@ -296,12 +297,18 @@ Canvas:
   m_TargetDisplay: 0
 --- !u!1 &291018549
 >>>>>>> parent of 09e54802 (Добавлено уведомление о пустом вводе и уменьшена прозрачность джойстика)
+=======
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1 &963194225
+>>>>>>> parent of febd5b05 (Merge remote-tracking branch 'origin/uigame')
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 963194228}
   - component: {fileID: 963194227}
@@ -578,6 +585,11 @@ GameObject:
   - component: {fileID: 330585544}
   - component: {fileID: 330585547}
 >>>>>>> parent of 09e54802 (Добавлено уведомление о пустом вводе и уменьшена прозрачность джойстика)
+=======
+  - component: {fileID: 963194228}
+  - component: {fileID: 963194227}
+  - component: {fileID: 963194226}
+>>>>>>> parent of febd5b05 (Merge remote-tracking branch 'origin/uigame')
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -646,6 +658,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 --- !u!114 &330585547
@@ -1927,3 +1940,5 @@ Transform:
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 >>>>>>> parent of 09e54802 (Добавлено уведомление о пустом вводе и уменьшена прозрачность джойстика)
+=======
+>>>>>>> parent of febd5b05 (Merge remote-tracking branch 'origin/uigame')
