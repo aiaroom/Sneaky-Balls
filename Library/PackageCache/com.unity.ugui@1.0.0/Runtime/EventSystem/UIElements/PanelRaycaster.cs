@@ -5,6 +5,8 @@ using UnityEngine.EventSystems;
 
 namespace UnityEngine.UIElements
 {
+    // This code is disabled unless the UI Toolkit package or the com.unity.modules.uielements module are present.
+    // The UIElements module is always present in the Editor but it can be stripped from a project build if unused.
 #if PACKAGE_UITOOLKIT
     /// <summary>
     /// A derived BaseRaycaster to raycast against UI Toolkit panel instances at runtime.

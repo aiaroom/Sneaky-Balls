@@ -1,33 +1,345 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/azano/Sneaky Balls/Packages/manifest.json
+    m_FilePath: D:/Sneaky Balls/Sneaky-Balls/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637924629419476183
-    m_Hash: 1386908661
+      ticks: 637927733489306250
+    m_Hash: 2754616563
   m_LockFileStatus:
-    m_FilePath: C:/Users/azano/Sneaky Balls/Packages/packages-lock.json
+    m_FilePath: D:/Sneaky Balls/Sneaky-Balls/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637924632229544024
-    m_Hash: 401634145
+      ticks: 637927734339375078
+    m_Hash: 3468107201
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/azano/Sneaky Balls/Packages
-m_EditorVersion: 2021.3.3f1 (af2e63e8f9bd)
+m_ProjectPath: D:/Sneaky Balls/Sneaky-Balls/Packages
+m_EditorVersion: 2022.1.5f1 (feea5ec8f162)
 m_ResolvedPackages:
-- packageId: com.unity.collab-proxy@1.15.16
+- packageId: com.unity.2d.sprite@1.0.0
   testable: 0
   isDirectDependency: 1
-  version: 1.15.16
+  version: 1.0.0
+  source: 2
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.2d.sprite@1.0.0
+  assetPath: Packages/com.unity.2d.sprite
+  name: com.unity.2d.sprite
+  displayName: 2D Sprite
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: Use Unity Sprite Editor Window to create and edit Sprite asset properties
+    like pivot, borders and Physics shape
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    verified: 1.0.0
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - 2d
+  - sprite
+  - sprite editor window
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+- packageId: com.unity.2d.tilemap@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.2d.tilemap@1.0.0
+  assetPath: Packages/com.unity.2d.tilemap
+  name: com.unity.2d.tilemap
+  displayName: 2D Tilemap Editor
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: 2D Tilemap Editor is a package that contains editor functionalities
+    for editing Tilemaps.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    verified: 1.0.0
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - 2d
+  - Tilemap
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+- packageId: com.unity.ads@4.1.0
+  testable: 0
+  isDirectDependency: 1
+  version: 4.1.0
   source: 1
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.collab-proxy@1.15.16
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.ads@4.1.0
+  assetPath: Packages/com.unity.ads
+  name: com.unity.ads
+  displayName: Advertisement
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Unity Ads is a video ad network for iOS and Android that allows you
+    to quickly and effectively monetize your games.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.0.3
+    - 0.0.4
+    - 0.0.5
+    - 0.0.6
+    - 0.0.7
+    - 0.0.8
+    - 0.0.10
+    - 0.0.11
+    - 0.0.12
+    - 0.0.13
+    - 0.0.14
+    - 0.0.15
+    - 0.0.16
+    - 2.0.0
+    - 2.0.3
+    - 2.0.4
+    - 2.0.7
+    - 2.0.8
+    - 2.3.1
+    - 2.3.2
+    - 3.0.1
+    - 3.0.2
+    - 3.0.3
+    - 3.1.1
+    - 3.2.0
+    - 3.3.0
+    - 3.3.1
+    - 3.4.0
+    - 3.4.1
+    - 3.4.2
+    - 3.4.4
+    - 3.4.5
+    - 3.4.7
+    - 3.4.9
+    - 3.5.0
+    - 3.5.2
+    - 3.6.1
+    - 3.7.0
+    - 3.7.1
+    - 3.7.3
+    - 3.7.5
+    - 4.0.0
+    - 4.0.1
+    - 4.1.0
+    - 4.2.1
+    compatible:
+    - 4.1.0
+    - 4.2.1
+    verified: 4.1.0
+  dependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  keywords:
+  - ads
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637841885960000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/unity-ads-sdk.git
+    revision: 44d6cf7ea9e880e498ee68576d3b81d04897111d
+    path: 
+  unityLifecycle:
+    version: 4.1.0
+    nextVersion: 
+- packageId: com.unity.analytics@3.7.1
+  testable: 0
+  isDirectDependency: 1
+  version: 3.7.1
+  source: 1
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.analytics@3.7.1
+  assetPath: Packages/com.unity.analytics
+  name: com.unity.analytics
+  displayName: Analytics Library
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The Unity Analytics Library contains the Analytics Event Tracker component,
+    the Data Privacy plug-in, and the Standard Events API.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.0.3
+    - 0.0.4
+    - 0.0.5
+    - 0.0.7
+    - 0.0.8
+    - 0.0.9
+    - 0.0.10
+    - 0.0.11
+    - 0.0.12
+    - 0.0.13
+    - 0.0.14
+    - 0.0.15
+    - 0.0.16
+    - 0.0.17
+    - 0.0.19
+    - 2.0.5
+    - 2.0.11
+    - 2.0.13
+    - 2.0.14
+    - 2.0.15
+    - 2.0.16
+    - 3.0.5
+    - 3.0.9
+    - 3.1.1
+    - 3.2.0
+    - 3.2.2
+    - 3.2.3
+    - 3.3.0
+    - 3.3.2-preview
+    - 3.3.2
+    - 3.3.4
+    - 3.3.5
+    - 3.4.0
+    - 3.5.3
+    - 3.6.11
+    - 3.6.12
+    - 3.7.1
+    - 3.8.1
+    compatible:
+    - 3.7.1
+    - 3.8.1
+    verified: 3.7.1
+  dependencies:
+  - name: com.unity.services.analytics
+    version: 1.0.4
+  - name: com.unity.ugui
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.services.analytics
+    version: 4.0.1
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.services.core
+    version: 1.4.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.0.2
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  keywords:
+  - analytics
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637732056010000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.analytics.git
+    revision: c7064489a6c87d0cf5a95a11e66180cc01905c0c
+    path: 
+  unityLifecycle:
+    version: 3.7.1
+    nextVersion: 
+- packageId: com.unity.collab-proxy@1.15.18
+  testable: 0
+  isDirectDependency: 1
+  version: 1.15.18
+  source: 1
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.collab-proxy@1.15.18
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -92,6 +404,8 @@ m_ResolvedPackages:
     - 1.15.16
     - 1.15.17
     - 1.15.18
+    - 1.17.0
+    - 1.17.1
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -103,9 +417,9 @@ m_ResolvedPackages:
     - 2.1.0-preview.5
     - 2.1.0-preview.6
     compatible:
-    - 1.15.16
-    - 1.15.17
     - 1.15.18
+    - 1.17.0
+    - 1.17.1
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -122,7 +436,7 @@ m_ResolvedPackages:
     version: 1.0.1
   resolvedDependencies:
   - name: com.unity.services.core
-    version: 1.3.1
+    version: 1.4.0
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
@@ -152,23 +466,23 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637847776260000000
+  datePublishedTicks: 637888962690000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: 714a2838c2d55add3d0accf539488f96caa757b2
+    revision: 611215dcd30048fa921b4be160048bad4022d65f
     path: 
   unityLifecycle:
-    version: 1.15.16
+    version: 1.15.18
     nextVersion: 
 - packageId: com.unity.feature.development@1.0.1
   testable: 0
   isDirectDependency: 1
   version: 1.0.1
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.feature.development@1.0.1
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.feature.development@1.0.1
   assetPath: Packages/com.unity.feature.development
   name: com.unity.feature.development
   displayName: Engineering
@@ -225,9 +539,9 @@ m_ResolvedPackages:
   - name: com.unity.performance.profile-analyzer
     version: 1.1.1
   - name: com.unity.testtools.codecoverage
-    version: 1.0.1
+    version: 1.1.1
   - name: com.unity.settings-manager
-    version: 1.0.3
+    version: 2.0.1
   keywords: []
   registry:
     id: main
@@ -254,7 +568,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.14
   source: 1
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.ide.rider@3.0.14
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.ide.rider@3.0.14
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -301,9 +615,11 @@ m_ResolvedPackages:
     - 3.0.12
     - 3.0.13
     - 3.0.14
+    - 3.0.15
     compatible:
     - 3.0.14
-    verified: 3.0.14
+    - 3.0.15
+    verified: 3.0.15
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -336,7 +652,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.15
   source: 1
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.ide.visualstudio@2.0.15
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.ide.visualstudio@2.0.15
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -371,9 +687,11 @@ m_ResolvedPackages:
     - 2.0.12
     - 2.0.14
     - 2.0.15
+    - 2.0.16
     compatible:
     - 2.0.15
-    verified: 2.0.15
+    - 2.0.16
+    verified: 2.0.16
   dependencies:
   - name: com.unity.test-framework
     version: 1.1.9
@@ -412,7 +730,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.2.5
   source: 1
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.ide.vscode@1.2.5
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.ide.vscode@1.2.5
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -468,12 +786,159 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.2.5
     nextVersion: 
+- packageId: com.unity.purchasing@4.1.5
+  testable: 0
+  isDirectDependency: 1
+  version: 4.1.5
+  source: 1
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.purchasing@4.1.5
+  assetPath: Packages/com.unity.purchasing
+  name: com.unity.purchasing
+  displayName: In App Purchasing
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: "IMPORTANT UPGRADE NOTES:\n\nIf updating from Unity IAP (com.unity.purchasing
+    + the Asset Store plugin) versions 2.x to version 3.x, complete the following
+    actions in order to resolve compilation errors:\n 1. Move IAPProductCatalog.json
+    and BillingMode.json\n\tFROM: Assets/Plugins/UnityPurchasing/Resources/\n\tTO:
+    Assets/Resources/.\n 2. Move AppleTangle.cs and GooglePlayTangle.cs\n\tFROM:
+    Assets/Plugins/UnityPurchasing/generated\n\tTO: Assets/Scripts/UnityPurchasing/generated.\n
+    3. Remove all remaining Asset Store plugin folders and files in Assets/Plugins/UnityPurchasing
+    from your project.\n\nPACKAGE DESCRIPTION:\n\nWith Unity IAP, setting up in-app
+    purchases for your game across multiple app stores has never been easier.\n\nThis
+    package provides:\n\n \u25AA One common API to access all stores for free so
+    you can fully understand and optimize your in-game economy\n \u25AA Automatic
+    coupling with Unity Analytics to enable monitoring and decision-making based
+    on trends in your revenue and purchase data across multiple platforms\n \u25AA
+    Support for iOS, Mac, tvOS, Google Play, Windows, and Amazon app stores(*).\n
+    \u25AA Support to work with the Unity Distribution Portal to synchronize catalogs
+    and transactions with other app stores\n \u25AA Client-side receipt validation
+    for Apple App Store and Google Play\n\nAfter installing this package, open the
+    Services Window to enable In-App Purchasing to use these features."
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.0.3
+    - 0.0.4
+    - 0.0.5
+    - 0.0.6
+    - 0.0.7
+    - 0.0.8
+    - 0.0.9
+    - 0.0.10
+    - 0.0.11
+    - 0.0.12
+    - 0.0.13
+    - 0.0.14
+    - 0.0.15
+    - 0.0.16
+    - 0.0.17
+    - 0.0.18
+    - 0.0.19
+    - 2.0.0
+    - 2.0.1
+    - 2.0.3
+    - 2.0.5
+    - 2.0.6
+    - 2.1.0
+    - 2.1.1
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 3.0.0-pre.3
+    - 3.0.0-pre.4
+    - 3.0.0-pre.5
+    - 3.0.0-pre.6
+    - 3.0.1
+    - 3.0.2
+    - 3.1.0
+    - 3.2.1
+    - 3.2.2
+    - 3.2.3
+    - 4.0.0
+    - 4.0.3
+    - 4.1.0
+    - 4.1.1
+    - 4.1.2
+    - 4.1.3
+    - 4.1.4
+    - 4.1.5
+    - 4.2.0-pre.1
+    - 4.2.0-pre.2
+    - 4.2.1
+    compatible:
+    - 4.1.5
+    - 4.2.0-pre.1
+    - 4.2.0-pre.2
+    - 4.2.1
+    verified: 4.1.5
+  dependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.unityanalytics
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.services.core
+    version: 1.0.1
+  resolvedDependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.unityanalytics
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.services.core
+    version: 1.4.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.0.2
+  keywords:
+  - purchasing
+  - iap
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 637888998470000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.purchasing.git
+    revision: e85a08b1c40e0237d1455cd2032430b72b82d183
+    path: 
+  unityLifecycle:
+    version: 4.1.5
+    nextVersion: 
 - packageId: com.unity.test-framework@1.1.31
   testable: 0
   isDirectDependency: 1
   version: 1.1.31
   source: 1
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.test-framework@1.1.31
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.test-framework@1.1.31
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -572,7 +1037,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.textmeshpro@3.0.6
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -695,6 +1160,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.1
     - 3.2.0-pre.2
     - 3.2.0-pre.3
+    - 4.0.0-pre.1
     verified: 3.0.6
   dependencies:
   - name: com.unity.ugui
@@ -732,12 +1198,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 3.0.6
     nextVersion: 
-- packageId: com.unity.timeline@1.6.4
+- packageId: com.unity.timeline@1.7.1
   testable: 0
   isDirectDependency: 1
-  version: 1.6.4
+  version: 1.7.1
   source: 1
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.timeline@1.6.4
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.timeline@1.7.1
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -826,12 +1292,8 @@ m_ResolvedPackages:
     - 1.7.0
     - 1.7.1
     compatible:
-    - 1.6.4
-    - 1.7.0-pre.1
-    - 1.7.0-pre.2
-    - 1.7.0
     - 1.7.1
-    verified: 1.6.4
+    verified: 1.7.1
   dependencies:
   - name: com.unity.modules.director
     version: 1.0.0
@@ -865,23 +1327,23 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637789039180000000
+  datePublishedTicks: 637824211470000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-    revision: d7e1eb6805737974459309b7d6e7db58635dd167
+    revision: 9cec37f449d04026a6c454de9e1bf6f34672764e
     path: 
   unityLifecycle:
-    version: 1.6.4
+    version: 1.7.1
     nextVersion: 
 - packageId: com.unity.ugui@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.ugui@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -938,12 +1400,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-- packageId: com.unity.visualscripting@1.7.6
+- packageId: com.unity.visualscripting@1.7.8
   testable: 0
   isDirectDependency: 1
-  version: 1.7.6
+  version: 1.7.8
   source: 1
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.visualscripting@1.7.6
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.visualscripting@1.7.8
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -986,9 +1448,8 @@ m_ResolvedPackages:
     - 1.7.8
     - 1.8.0-pre.1
     compatible:
-    - 1.7.6
-    - 1.7.7
     - 1.7.8
+    - 1.8.0-pre.1
     verified: 1.7.8
   dependencies:
   - name: com.unity.ugui
@@ -1014,23 +1475,94 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637722460580000000
+  datePublishedTicks: 637878097330000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.visualscripting.git
-    revision: 64599611822e37717efdd2fa1a0576e1984155fc
+    revision: 775a560e6602f51ff05aca02264f8bed4d415fd3
     path: 
   unityLifecycle:
-    version: 1.7.6
+    version: 1.7.8
+    nextVersion: 
+- packageId: com.unity.xr.legacyinputhelpers@2.1.9
+  testable: 0
+  isDirectDependency: 1
+  version: 2.1.9
+  source: 1
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.9
+  assetPath: Packages/com.unity.xr.legacyinputhelpers
+  name: com.unity.xr.legacyinputhelpers
+  displayName: XR Legacy Input Helpers
+  author:
+    name: 
+    email: 
+    url: 
+  category: XR
+  type: 
+  description: This package includes the tracked pose driver for the legacy input
+    system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked
+    Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects to
+    track input devices, the XR Bindings Seeding Tool adds a menu item under the
+    'Assets' menu which populates the Input Asset with Unity's crossplatform Input
+    Bindings
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 2.1.9
+    compatible:
+    - 2.1.9
+    verified: 2.1.9
+  dependencies:
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  keywords:
+  - TPD
+  - Tracked Pose Driver
+  - XR
+  - Input
+  - Helpers
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.legacyinputhelpers.git
+    revision: 8e4581a11c14b64d41aabb67f51b0d8a0c75f5c4
+    path: 
+  unityLifecycle:
+    version: 2.1.9
     nextVersion: 
 - packageId: com.unity.modules.ai@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.ai@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1078,7 +1610,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1125,7 +1657,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.animation@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1173,7 +1705,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1221,7 +1753,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.audio@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1269,7 +1801,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.cloth@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -1321,7 +1853,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.director@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -1377,7 +1909,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -1426,7 +1958,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.imgui@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -1474,7 +2006,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -1522,7 +2054,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -1570,7 +2102,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.physics@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -1618,7 +2150,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -1666,7 +2198,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -1718,7 +2250,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.terrain@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -1766,7 +2298,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -1822,7 +2354,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -1873,7 +2405,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.ui@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -1921,7 +2453,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.uielements@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -1985,7 +2517,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.umbra@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2033,7 +2565,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2089,7 +2621,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2137,7 +2669,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -2193,7 +2725,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -2249,7 +2781,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -2305,7 +2837,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -2377,7 +2909,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -2429,7 +2961,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.video@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -2489,7 +3021,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.vr@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -2551,7 +3083,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.wind@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -2599,7 +3131,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.xr@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -2659,7 +3191,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -2711,7 +3243,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
   assetPath: Packages/com.unity.modules.uielementsnative
   name: com.unity.modules.uielementsnative
   displayName: UIElements Native
@@ -2770,7 +3302,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.ext.nunit@1.0.6
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -2786,9 +3318,18 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 0.1.5-preview
+    - 0.1.6-preview
+    - 0.1.9-preview
+    - 1.0.0
+    - 1.0.5
     - 1.0.6
+    - 2.0.2
+    - 2.0.3
     compatible:
     - 1.0.6
+    - 2.0.2
+    - 2.0.3
     verified: 1.0.6
   dependencies: []
   resolvedDependencies: []
@@ -2805,7 +3346,7 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 637429759280000000
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -2816,12 +3357,90 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.6
     nextVersion: 
+- packageId: com.unity.services.core@1.4.0
+  testable: 0
+  isDirectDependency: 0
+  version: 1.4.0
+  source: 1
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.services.core@1.4.0
+  assetPath: Packages/com.unity.services.core
+  name: com.unity.services.core
+  displayName: Services Core
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: 'This package defines common components used by multiple Game Service
+    packages.
+
+    These are standardized and aim to unify the overall experience
+    of working with Game Services SDK.'
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.1
+    - 1.1.0-pre.7
+    - 1.1.0-pre.8
+    - 1.1.0-pre.9
+    - 1.1.0-pre.10
+    - 1.1.0-pre.11
+    - 1.1.0-pre.41
+    - 1.1.0-pre.69
+    - 1.2.0
+    - 1.3.1
+    - 1.3.2
+    - 1.4.0
+    - 1.4.1
+    - 1.4.2
+    compatible:
+    - 1.4.0
+    - 1.4.1
+    - 1.4.2
+    verified: 1.4.2
+  dependencies:
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.0.2
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.0.2
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637871962570000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: 92e281deb97a96f7b32464b6874de73a17c140ff
+    path: 
+  unityLifecycle:
+    version: 1.4.0
+    nextVersion: 
 - packageId: com.unity.editorcoroutines@1.0.0
   testable: 0
   isDirectDependency: 0
   version: 1.0.0
   source: 1
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.editorcoroutines@1.0.0
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.editorcoroutines@1.0.0
   assetPath: Packages/com.unity.editorcoroutines
   name: com.unity.editorcoroutines
   displayName: Editor Coroutines
@@ -2838,6 +3457,12 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 0.0.1-preview.3
+    - 0.0.1-preview.4
+    - 0.0.1-preview.5
+    - 0.0.2-preview.1
+    - 0.1.0-preview.1
+    - 0.1.0-preview.2
     - 1.0.0
     compatible:
     - 1.0.0
@@ -2857,7 +3482,7 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 637232611380000000
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -2873,7 +3498,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.1.1
   source: 1
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.performance.profile-analyzer@1.1.1
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.performance.profile-analyzer@1.1.1
   assetPath: Packages/com.unity.performance.profile-analyzer
   name: com.unity.performance.profile-analyzer
   displayName: Profile Analyzer
@@ -2892,6 +3517,18 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 0.4.0-preview.3
+    - 0.4.0-preview.5
+    - 0.4.0-preview.6
+    - 0.5.0-preview.1
+    - 0.6.0-preview.1
+    - 0.7.0-preview.4
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.0.3
+    - 1.1.0-pre.2
+    - 1.1.0
     - 1.1.1
     compatible:
     - 1.1.1
@@ -2908,7 +3545,7 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 637705021060000000
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -2919,12 +3556,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.1.1
     nextVersion: 
-- packageId: com.unity.testtools.codecoverage@1.0.1
+- packageId: com.unity.testtools.codecoverage@1.1.1
   testable: 0
   isDirectDependency: 0
-  version: 1.0.1
+  version: 1.1.1
   source: 1
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.testtools.codecoverage@1.0.1
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.testtools.codecoverage@1.1.1
   assetPath: Packages/com.unity.testtools.codecoverage
   name: com.unity.testtools.codecoverage
   displayName: Code Coverage
@@ -2942,10 +3579,41 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 0.2.0-preview
+    - 0.2.1-preview
+    - 0.2.2-preview
+    - 0.2.3-preview
+    - 0.3.0-preview
+    - 0.3.1-preview
+    - 0.4.0-preview
+    - 0.4.1-preview
+    - 0.4.2-preview
+    - 0.4.3-preview
+    - 1.0.0-pre.1
+    - 1.0.0-pre.2
+    - 1.0.0-pre.3
+    - 1.0.0-pre.4
+    - 1.0.0
     - 1.0.1
+    - 1.1.0
+    - 1.1.1
+    - 1.2.0-exp.1
+    - 1.2.0-exp.2
+    - 1.2.0-exp.3
+    - 1.2.0-exp.4
+    - 1.2.0-exp.5
+    - 1.2.0-exp.6
+    - 1.2.0-exp.7
     compatible:
-    - 1.0.1
-    verified: 1.0.1
+    - 1.1.1
+    - 1.2.0-exp.1
+    - 1.2.0-exp.2
+    - 1.2.0-exp.3
+    - 1.2.0-exp.4
+    - 1.2.0-exp.5
+    - 1.2.0-exp.6
+    - 1.2.0-exp.7
+    verified: 1.1.1
   dependencies:
   - name: com.unity.test-framework
     version: 1.0.16
@@ -2961,7 +3629,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.settings-manager
-    version: 1.0.3
+    version: 2.0.1
   keywords:
   - test
   - coverage
@@ -2976,53 +3644,72 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 637755928510000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.testtools.codecoverage.git
-    revision: 2777556fc6ade4006a02ea7febbae1dd3257eb7d
+    revision: c8c48a225d2b1a7fd5e3b1698e7aba02970ad9fe
     path: 
   unityLifecycle:
-    version: 1.0.1
+    version: 1.1.1
     nextVersion: 
-- packageId: com.unity.services.core@1.3.1
+- packageId: com.unity.services.analytics@4.0.1
   testable: 0
   isDirectDependency: 0
-  version: 1.3.1
+  version: 4.0.1
   source: 1
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.services.core@1.3.1
-  assetPath: Packages/com.unity.services.core
-  name: com.unity.services.core
-  displayName: Services Core
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.services.analytics@4.0.1
+  assetPath: Packages/com.unity.services.analytics
+  name: com.unity.services.analytics
+  displayName: Analytics
   author:
     name: 
     email: 
     url: 
   category: 
   type: 
-  description: 'This package defines common components used by multiple Game Service
-    packages.
-
-    These are standardized and aim to unify the overall experience
-    of working with Game Services SDK.'
+  description: The Unity Analytics package automatically collects core events and
+    user properties when someone uses your game or application, and enables you to
+    track specific in-game actions your user performs by defining custom events.
+    The data collected from this package is surfaced in the Unity dashboard where
+    you can use it to gather user insights, segment your player base and make informed
+    decisions around the optimization of your game.
   status: 4
   errors: []
   versions:
     all:
-    - 1.3.1
+    - 1.0.3
+    - 1.0.4
+    - 1.0.5
+    - 2.0.7-pre.4
+    - 2.0.7-pre.6
+    - 2.0.7-pre.7
+    - 3.0.0-pre.2
+    - 3.0.0-pre.3
+    - 3.0.0-pre.4
+    - 4.0.0-pre.2
+    - 4.0.0-pre.3
+    - 4.0.0
+    - 4.0.1
     compatible:
-    - 1.3.1
-    verified: 1.3.1
+    - 4.0.1
+    verified: 4.0.1
   dependencies:
-  - name: com.unity.modules.unitywebrequest
+  - name: com.unity.ugui
     version: 1.0.0
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.0.2
-  - name: com.unity.modules.androidjni
-    version: 1.0.0
+  - name: com.unity.services.core
+    version: 1.4.0
   resolvedDependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.services.core
+    version: 1.4.0
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
@@ -3039,23 +3726,91 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 637889192380000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
-    revision: a1cf55a5ba0e2555d508263fa48837ff56c4654a
+    revision: dac564bca5dae194afa944a6b22849513d412ec2
     path: 
   unityLifecycle:
-    version: 1.3.1
+    version: 4.0.1
     nextVersion: 
-- packageId: com.unity.settings-manager@1.0.3
+- packageId: com.unity.nuget.newtonsoft-json@3.0.2
   testable: 0
   isDirectDependency: 0
-  version: 1.0.3
+  version: 3.0.2
   source: 1
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.settings-manager@1.0.3
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2
+  assetPath: Packages/com.unity.nuget.newtonsoft-json
+  name: com.unity.nuget.newtonsoft-json
+  displayName: Newtonsoft Json
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
+    synced to version 13.0.1.
+
+
+    This package is used for advanced json serialization
+    and deserialization. Most Unity users will be better suited using the existing
+    json tools built into Unity.
+
+    To avoid assembly clashes, please use this
+    package if you intend to use Newtonsoft Json.'
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview.2
+    - 1.0.0-preview.3
+    - 1.0.0-preview.4
+    - 1.0.1-preview.1
+    - 1.1.2
+    - 2.0.0-preview
+    - 2.0.0-preview.1
+    - 2.0.0-preview.2
+    - 2.0.0
+    - 2.0.1-preview.1
+    - 2.0.2
+    - 3.0.1
+    - 3.0.2
+    compatible:
+    - 3.0.2
+    verified: 3.0.2
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637846828220000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
+    revision: 8f66870a71ad3f2cdd46330b5c482dfd138ffc64
+    path: 
+  unityLifecycle:
+    version: 3.0.2
+    nextVersion: 
+- packageId: com.unity.settings-manager@2.0.1
+  testable: 0
+  isDirectDependency: 0
+  version: 2.0.1
+  source: 1
+  resolvedPath: D:\Sneaky Balls\Sneaky-Balls\Library\PackageCache\com.unity.settings-manager@2.0.1
   assetPath: Packages/com.unity.settings-manager
   name: com.unity.settings-manager
   displayName: Settings Manager
@@ -3071,10 +3826,10 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 1.0.3
+    - 2.0.1
     compatible:
-    - 1.0.3
-    verified: 1.0.3
+    - 2.0.1
+    verified: 2.0.1
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -3093,64 +3848,8 @@ m_ResolvedPackages:
   repository:
     type: git
     url: https://github.com/Unity-Technologies/com.unity.settings-manager.git
-    revision: 473664ccba1496294b741cf169740a5d54b3d0b6
+    revision: 9b7c12d04ef880168151c127fd6b37b5931197dc
     path: 
   unityLifecycle:
-    version: 1.0.3
-    nextVersion: 
-- packageId: com.unity.nuget.newtonsoft-json@3.0.2
-  testable: 0
-  isDirectDependency: 0
-  version: 3.0.2
-  source: 1
-  resolvedPath: C:\Users\azano\Sneaky Balls\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2
-  assetPath: Packages/com.unity.nuget.newtonsoft-json
-  name: com.unity.nuget.newtonsoft-json
-  displayName: Newtonsoft Json
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: library
-  description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
-    synced to version 13.0.1.
-
-
-    This package is used for advanced json serialization
-    and deserialization. Most Unity users will be better suited using the existing
-    json tools built into Unity.
-
-    To avoid assembly clashes, please use this
-    package if you intend to use Newtonsoft Json.'
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 3.0.2
-    compatible:
-    - 3.0.2
-    verified: 3.0.2
-  dependencies: []
-  resolvedDependencies: []
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
-    revision: 8f66870a71ad3f2cdd46330b5c482dfd138ffc64
-    path: 
-  unityLifecycle:
-    version: 3.0.2
+    version: 2.0.1
     nextVersion: 
