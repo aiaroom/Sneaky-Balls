@@ -329,7 +329,7 @@ namespace UnityEngine.UI
                 if (m_HorizontalScrollbar)
                     m_HorizontalScrollbar.onValueChanged.RemoveListener(SetHorizontalNormalizedPosition);
                 m_HorizontalScrollbar = value;
-                if (m_HorizontalScrollbar)
+                if (m_Horizontal && m_HorizontalScrollbar)
                     m_HorizontalScrollbar.onValueChanged.AddListener(SetHorizontalNormalizedPosition);
                 SetDirtyCaching();
             }
@@ -373,7 +373,7 @@ namespace UnityEngine.UI
                 if (m_VerticalScrollbar)
                     m_VerticalScrollbar.onValueChanged.RemoveListener(SetVerticalNormalizedPosition);
                 m_VerticalScrollbar = value;
-                if (m_VerticalScrollbar)
+                if (m_Vertical && m_VerticalScrollbar)
                     m_VerticalScrollbar.onValueChanged.AddListener(SetVerticalNormalizedPosition);
                 SetDirtyCaching();
             }
@@ -572,9 +572,9 @@ namespace UnityEngine.UI
         {
             base.OnEnable();
 
-            if (m_HorizontalScrollbar)
+            if (m_Horizontal && m_HorizontalScrollbar)
                 m_HorizontalScrollbar.onValueChanged.AddListener(SetHorizontalNormalizedPosition);
-            if (m_VerticalScrollbar)
+            if (m_Vertical && m_VerticalScrollbar)
                 m_VerticalScrollbar.onValueChanged.AddListener(SetVerticalNormalizedPosition);
 
             CanvasUpdateRegistry.RegisterCanvasElementForLayoutRebuild(this);
